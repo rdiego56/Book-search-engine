@@ -11,7 +11,7 @@ const resolvers = {
   //  login: async (parent, args) => {
      
   //   },
-    addUSer: async (parent, args) => {
+    addUser: async (parent, args) => {
       console.log("args:", args);
 
       const user = await User.create(args);
