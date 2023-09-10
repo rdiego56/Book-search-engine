@@ -2,6 +2,7 @@
 
 ![books](https://github.com/rdiego56/Book-search-engine-hw/assets/128023854/d2296aeb-7c63-4c2f-9565-42a498339a92)
 
+![books2](https://github.com/rdiego56/Book-search-engine-hw/assets/128023854/d5983142-c7d1-499a-b483-77a57912a811)
 
 For this assignment, we had to create a book search engine for new books to read 
 
