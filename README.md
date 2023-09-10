@@ -42,8 +42,8 @@ For this assignment, we had to create a book search engine for new books to read
 
 * When I click on the Save button on a book
 
-*That book’s information is saved to my account.
-*When I click on the option to see my saved books
+* That book’s information is saved to my account.
+* When I click on the option to see my saved books
 
 * I am presented with all of the books I have saved to my account, each featuring the book’s title, author, description, image, and a link to that book on the Google Books site, and a button to remove a book from my account.
 
@@ -54,18 +54,18 @@ For this assignment, we had to create a book search engine for new books to read
 
 * I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup, an input field to search for books, and a submit button.
 
-*To use the Book Search Engine, follow these steps:
+* To use the Book Search Engine, follow these steps:
 
-*Load the application and you will see a menu with the options "Search for Books" and "Login/Signup," an input field to search for books, and a submit button.
+* Load the application and you will see a menu with the options "Search for Books" and "Login/Signup," an input field to search for books, and a submit button.
 
-*If you want to search for books, click on the "Search for Books" menu option, enter a search term in the input field, and click the submit button. You will receive search results.
+* If you want to search for books, click on the "Search for Books" menu option, enter a search term in the input field, and click the submit button. You will receive search results.
 
-*If you want to create an account or log in, click on the "Login/Signup" menu option. You can toggle between signing up and logging in.
+* If you want to create an account or log in, click on the "Login/Signup" menu option. You can toggle between signing up and logging in.
 
-*When signing up, provide a username, email address, and password, and click the signup button.
+* When signing up, provide a username, email address, and password, and click the signup button.
 
-*When logging in, enter your email address and password and click the login button.
+* When logging in, enter your email address and password and click the login button.
 
-*Once logged in, you can search for books, save books to your account, view your saved books, and remove books from your saved list.
+* Once logged in, you can search for books, save books to your account, view your saved books, and remove books from your saved list.
 
-*To log out, click the "Logout" button.
+* To log out, click the "Logout" button.
