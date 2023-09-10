@@ -47,7 +47,7 @@ For this assignment, we had to create a book search engine for new books to read
 
 * I am presented with all of the books I have saved to my account, each featuring the book’s title, author, description, image, and a link to that book on the Google Books site, and a button to remove a book from my account.
 
-*   When I click on the Remove button on a book
+* When I click on the Remove button on a book
 
 * That book is deleted from my saved books list.
 * When I click on the Logout button
