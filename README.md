@@ -75,4 +75,4 @@ For this assignment, we had to create a book search engine for new books to read
 [GitHubRepo](https://github.com/rdiego56/Book-search-engine-hw)
 
 # Git Hub Account
-[GitHubAccount]
+[GitHubAccount](https://github.com/rdiego56)
